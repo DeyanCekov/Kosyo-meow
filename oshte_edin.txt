@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 promqna
+=======
+uhm zashto mi nqma promqnata trqbva da q ima
+>>>>>>> main
